@@ -1,4 +1,4 @@
-### Hey - I'm Emmy Le
+### Hey👋 - I'm Emmy Le
 
 ## I am a self taught developer! I have over 10 years of work experience in the field of statistics and data analytics. I have always had a love for solving problems and finding the answers to things (Google is the best invention ever), so naturally programming always appealed to me! If I don't know the answer to something, I at least know how to find the answer.
 
