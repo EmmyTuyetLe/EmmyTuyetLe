@@ -6,7 +6,7 @@
 - Projects: Tribute Page, Documention Guide, Survey, Personal Site
 - Tech Stack: JavaScript, MongoDB, Express, React, Node
 
-
+Discord: Emmy#0001
 
 <br />
 <br />
