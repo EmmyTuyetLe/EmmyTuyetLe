@@ -4,7 +4,7 @@
 
 - [Certifications](https://www.linkedin.com/in/emilytuyetle/)
 - Projects: Tribute Page, Documention Guide, Survey, Personal Site
-- Tech Stack: JavaScript, MongoDB, Express, React, Node
+- Tech Stack: JavaScript, MongoDB, Express, React, Node, MySQL
 
 Discord: Emmy#0001
 
