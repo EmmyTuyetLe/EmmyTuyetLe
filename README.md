@@ -8,6 +8,8 @@
 
 Discord: Emmy#0001
 
+https://emmytuyetle.github.io/cv/
+
 <br />
 <br />
 
