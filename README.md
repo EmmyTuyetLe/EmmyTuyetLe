@@ -13,9 +13,7 @@ https://emmytuyetle.github.io/cv/
 <p align="left">
 <a href="https://www.linkedin.com/in/emmytuyetle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emmy-Le" height="20" width="30" /></a>
 </p>
-
 <br />
-
 ---
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=EmmyTuyetLe)](https://github.com/anuraghazra/github-readme-stats) 
