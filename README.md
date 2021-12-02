@@ -16,3 +16,4 @@ https://emmytuyetle.github.io/cv/
 ---
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=EmmyTuyetLe)](https://github.com/anuraghazra/github-readme-stats) 
+[![Emmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmyTuyetLe)](https://github.com/anuraghazra/github-readme-stats)
