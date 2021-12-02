@@ -15,7 +15,6 @@ https://emmytuyetle.github.io/cv/
 </p>
 
 <br />
-<br />
 
 ---
 
