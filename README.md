@@ -6,7 +6,7 @@
 
 Discord: Emmy#0001
 
-[personal site] (https://emmytuyetle.github.io/cv/)
+https://emmytuyetle.github.io/cv/
 
 <h3 align="left">Connect with me:</h3>
 
