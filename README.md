@@ -4,8 +4,6 @@
 
 - you can contact me at: emilytuyetle@gmail.com 
 
-Discord: Emmy#0001
-
 https://emmytuyetle.github.io/cv/
 
 <h3 align="left">Connect with me:</h3>
