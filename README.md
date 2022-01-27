@@ -4,7 +4,7 @@
 
 - you can contact me at: emilytuyetle@gmail.com 
 
-https://emmytuyetle.github.io/cv/
+<a href="https://emmytuyetle.github.io/cv/">Portfolio site (not current)</a>
 
 <h3 align="left">Connect with me:</h3>
 
