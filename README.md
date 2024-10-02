@@ -1,6 +1,6 @@
 ### Hey👋 - I'm Emmy Le
 
-## I am currently self-learning programming! I have over 10 years of work experience in the field of statistics and data analytics. I have always had a love for solving problems and finding the answers to things, so programming always appealed to me! If I don't know the answer to something, I at least know how to find the answer.
+## I am a self-taught fullstack programmer! I have over 10 years of work experience in the field of statistics and data analytics. I have always had a love for solving problems and finding the answers to things, so programming always appealed to me! If I don't know the answer to something, I at least know how to find the answer.
 
 - you can contact me at: emilytuyetle@gmail.com 
 
